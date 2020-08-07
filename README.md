@@ -7,7 +7,7 @@ I am a third-year PhD student in the Department of Government at the University 
 Some of my repo in my Github page include: 
 - :package: maintain [`asmcjr`](https://github.com/uniofessex/asmcjr) package. 
 - 🛋 building up Natural Language Processing tutorial repo for [ParlspeechV2]() dataset using Python and relevant libraries (UDpipe and SpaCy).
-- :slot_machine: working on a R interface ([legisTaiwean](https://github.com/yl17124/legisTaiwan)) to access legislative database from [Taiwan Legislative Yuan API](https://www.ly.gov.tw/Pages/List.aspx?nodeid=154). 
+- :slot_machine: working on a R interface package ([legisTaiwean](https://github.com/yl17124/legisTaiwan)) accesssing legislative database from [Taiwan Legislative Yuan API](https://www.ly.gov.tw/Pages/List.aspx?nodeid=154). 
 
 **If you are interested in what I’ve been working on below and would like to chat, you can find me on [:bird: Twitter](https://twitter.com/liaoyenchieh), [:earth_africa:  Website](https://yl17124.github.io/) or via [:envelope: Email](yl17124@essex.ac.uk)**
 
