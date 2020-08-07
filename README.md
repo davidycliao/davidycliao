@@ -2,11 +2,10 @@
 
  <br />
  
-I am a third-year PhD student in the Department of Government at the University of Essex, working on Taiwan legislative politics (and beyond). My PhD thesis [📂]( https://yl17124.github.io/project/) mainly focuses on political careers and political polarisation on congressional roll calls and speeches, and particularly in how electoral motives shape preference, representation and ideological positionings. In addition to my PhD projects, I am also working on applying computational techniques to understand legislative behaviour using various natural language processing techniques and maintain [asmcjr](https://github.com/davidaarmstrong/asmcjr) package on Github. 
+I am a third-year PhD student in the Department of Government at the University of Essex, working on Taiwan legislative politics (and beyond). My PhD thesis [📂]( https://yl17124.github.io/project/) mainly focuses on political careers and political polarisation on congressional roll calls and speeches, and particularly in how electoral motives shape preference, representation and ideological positionings.
 
  <br />
-
-Some of my repo in my Github page include: 
+In addition to my PhD projects, I am also working on applying computational techniques to understand legislative behaviour using various natural language processing techniques and maintain [asmcjr](https://github.com/davidaarmstrong/asmcjr) package on Github. Some of my repo in my Github page include: 
 - :package: maintain [`asmcjr`](https://github.com/uniofessex/asmcjr) package. 
 - 🛋 building up Natural Language Processing tutorial repo for [ParlspeechV2]() dataset using Python and relevant libraries (UDpipe and SpaCy).
 - :slot_machine: working on a R interface package ([legisTaiwean](https://github.com/yl17124/legisTaiwan)) accesssing legislative database from [Taiwan Legislative Yuan API](https://www.ly.gov.tw/Pages/List.aspx?nodeid=154). 
