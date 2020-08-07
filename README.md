@@ -1,4 +1,4 @@
-## Welcome to my GitHub page <img src="yl17124.github.io/mstile-150x150.png" width="260" align="right" /> <br /> 
+## Welcome to my GitHub page <img src="https://raw.githack.com/yl17124/yl17124.github.io/master/mstile-150x150.png" width="260" align="right" /> <br /> 
 
 
 I am a third-year PhD student in the Department of Government at the University of Essex, working on Taiwan legislative politics (and beyond). My PhD thesis [📂]( https://yl17124.github.io/project/) mainly focuses on political careers and political polarisation on congressional roll calls and speeches, and particularly in how electoral motives shape preference, representation and ideological positionings. In addition to my PhD projects, I am also working on applying computational techniques to understand legislative behaviour using various natural language processing techniques and maintain [asmcjr](https://github.com/davidaarmstrong/asmcjr) package on Github. 
