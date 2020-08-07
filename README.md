@@ -10,10 +10,8 @@ I am a third-year PhD student in the Department of Government at the University 
 
 **If you are interested in what I’ve been working on below and would like to chat, you can find me::**
 
-
 <div align="center">
 
+:bird:[Twitter](https://twitter.com/liaoyenchieh) | :earth_africa: [Website](https://yl17124.github.io/) | :envelope:[Email](yl17124@essex.ac.uk) .
 
 </div>
-:office:[LinkedIn](https://www.linkedin.com/authwall?trk=gf&trkInfo=AQFYRVlzcv5EYQAAAXPJJqG4MFL9p0C2F3kB9s1nRa9MiRTgIYqgb6BKEcNyZhDIvBxdyxEujC2OI-OOqqCN7mKkVFs6-4jsmjfBCwqPGhxZyzKHui59df91fZ4Jy8Xze3VeKgs=&originalReferer=https://yl17124.github.io/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyen-chieh-liao-51a0a3168)&nbsp;|&nbsp;:bird: [Twitter](https://twitter.com/liaoyenchieh)&nbsp;|&nbsp;:earth_africa: [Website](https://yl17124.github.io/) | :envelope:[Email](yl17124@essex.ac.uk) .
-
