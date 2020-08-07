@@ -6,6 +6,6 @@ I am a third-year PhD student in the Department of Government at the University 
 - 🛋 building up Natural Language Processing tutorial repo for [ParlspeechV2]() dataset using Python and relevant libraries (UDpipe and SpaCy).
 - :slot_machine: working on a R interface ([legisTaiwean](https://github.com/yl17124/legisTaiwan)) to access Taiwan legislative API. 
 
-**If you are interested in what I’ve been working on below and would like to chat, you can find me on [:bird: Twitter](https://twitter.com/liaoyenchieh), [:earth_africa:  Website](https://yl17124.github.io/) or via [:envelope: Email](yl17124@essex.ac.uk)
+**If you are interested in what I’ve been working on below and would like to chat, you can find me on [:bird: Twitter](https://twitter.com/liaoyenchieh), [:earth_africa:  Website](https://yl17124.github.io/) or via [:envelope: Email](yl17124@essex.ac.uk)**
 
 </div>
