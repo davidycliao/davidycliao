@@ -1,4 +1,4 @@
-## Hi, welcome to my GitHub page <img src="https://github.com/yl17124/yl17124.github.io/blob/master/images/uk_top_animate.gif" width="260" align="right" /> <br /> 
+## Hi, welcome to my GitHub page <img src="https://github.com/yl17124/yl17124.github.io/blob/master/images/uk_top_animate.gif" width="180" align="right" /> <br /> 
 
 
 
