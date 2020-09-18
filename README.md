@@ -12,7 +12,7 @@ Some of my repos in this Github page include:
 
 - :package: maintain [`asmcjr`](https://uniofessex.github.io/asmcjr/) package. 
 - 🛋 building up Natural Language Processing tutorial repo for [ParlspeechV2]() dataset using Python and relevant libraries (UDpipe and SpaCy).
-- :slot_machine: working on a R interface package ([legisTaiwean](https://github.com/yl17124/legisTaiwan)) accesssing legislative database from [Taiwan Legislative Yuan API](https://www.ly.gov.tw/Pages/List.aspx?nodeid=154). 
+- :slot_machine: working on an R interface package ([legisTaiwean](https://github.com/yl17124/legisTaiwan)) accessing the legislative database from [Taiwan Legislative Yuan API](https://www.ly.gov.tw/Pages/List.aspx?nodeid=154). 
 
 <br />
  
