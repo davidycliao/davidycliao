@@ -1,4 +1,4 @@
-## Hi, welcome to my GitHub page :bowtie:
+## Hi, welcome to my GitHub page :bowtie: <img src="https://raw.githack.com/yl17124/DMASS/master/logo/Essex.jpg" width="220" height= "60" align="right" />  <br />  
 
 I am a PhD student in the Department of Government, the University of Essex, working on Taiwan legislative politics (and beyond). My research interests are mainly in political polarisation on congressional roll calls and speeches, and particularly in how electoral motives shape preference, representation and ideological positionings. 
 
