@@ -1,20 +1,9 @@
-## Hi, welcome to my GitHub page <img src="https://github.com/yl17124/yl17124.github.io/blob/master/images/bt_NRC.gif" width="200" align="right" /> <br /> 
-
-
+## Hi, welcome to my GitHub page :bowtie:
 
 <br />
- 
-I am a third-year PhD student in the Department of Government at the University of Essex, working on Taiwan legislative politics (and beyond). My PhD thesis [📂]( https://yl17124.github.io/project/) mainly focuses on political careers and political polarisation on congressional roll calls and speeches, and particularly in how electoral motives shape preference, representation and ideological positionings.
 
-In addition to my PhD projects, I am also working on applying computational techniques to understand legislative behaviour using various natural language processing techniques and maintain [asmcjr](https://github.com/davidaarmstrong/asmcjr) package on Github. 
+I am a PhD student in the Department of Government, the University of Essex, working on Taiwan legislative politics (and beyond). My research interests mainly focus on the quantitative study of ideology and political attitudes as well as computational
+techniques and application in social science.
 
-Some of my repos in this Github page include: 
-
-- :package: maintain [`asmcjr`](https://uniofessex.github.io/asmcjr/) package. 
-- 🛋 building up Natural Language Processing tutorial repo for [ParlspeechV2]() dataset using Python and relevant libraries (UDpipe and SpaCy).
-- :slot_machine: working on an R interface package ([legisTaiwean](https://github.com/yl17124/legisTaiwan)) accessing the legislative database from [Taiwan Legislative Yuan API](https://www.ly.gov.tw/Pages/List.aspx?nodeid=154). 
-
-<br />
- 
-**If you are interested in what I’ve been working on below and would like to chat, you can find me on [:bird: Twitter](https://twitter.com/liaoyenchieh), [:earth_africa:  Website](https://yl17124.github.io/) or via [:envelope: Email](<yl17124@essex.ac.uk>)**
+:construction_worker: Apart from my PhD project, I’m currently working on applying computational techniques to understand legislative behaviour using various natural language processing techniques and building up a related repo for [ParlspeechV2]() dataset using Python and relevant libraries such as UDpipe and SpaCy. Free free to check my [📂](https://yl17124.github.io/project/) research profile and latest :clipboard: [CV](https://raw.githack.com/yl17124/CV/master/CV.pdf) out.
 
