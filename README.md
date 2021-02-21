@@ -1,4 +1,4 @@
-## Hi, welcome to my GitHub page :bowtie: <img src="https://raw.githack.com/davidycliao/figures/master/avataaars.png" width="200" height= "200" align="right" />  <br />  
+## Hi, welcome to my GitHub page :bowtie: <img src="https://raw.githack.com/davidycliao/figures/master/avataaars.png" width="210" height= "210" align="right" />  <br />  
 
 I am a PhD student in the Department of Government, the University of Essex, working on Taiwan legislative politics (and beyond). My research interests are mainly in __distributive politics__ and __roll call polarization__ within congress, and particularly in how electoral motives shape preference, representation and ideological positionings. 
 
