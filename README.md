@@ -2,7 +2,7 @@
 
 I am a PhD student in the Department of Government, the University of Essex. My research interests are mainly in __distributive politics__ and __roll call polarization__ within congress, and particularly in how electoral motives shape preference, representation and ideological positionings. 
 
-Apart from my PhD project, I’m currently interested in applying various natural language processing techniques to understand legislative speeches using UDpipe, Stanza and SpaCy. Free free to check my [research profile](https://davidycliao.github.io/research/) :open_file_folder: and latest [curriculum vitae](https://raw.githack.com/davidycliao/CV/master/CV.pdf) :clipboard: out.
+Apart from my PhD project, I’m also interested in applying various natural language processing techniques to understand legislative speeches using UDpipe, Stanza and SpaCy. Free free to check my [research profile](https://davidycliao.github.io/research/) :open_file_folder: and latest [curriculum vitae](https://raw.githack.com/davidycliao/CV/master/CV.pdf) :clipboard: out.
 
 ### Update:
 
