@@ -24,6 +24,6 @@ Apart from my PhD project, I’m also interested in applying various natural lan
 
 
 ### Update:
-Website: yl17124[dot]github[dot]io &#160;&#160;&#160; ⇨ [davidycliao[dot]github[dot]io](https://davidycliao.github.io) <p> 
-Github : github[dot]com[slash]yl17124 ⇨ [github[dot]com[slash]davidycliao](https://github.com/davidycliao)
+Website: yl17124[dot]github[dot]io  &#160; &#160;&#160;&#160;&#160; ⇨ [davidycliao[dot]github[dot]io](https://davidycliao.github.io) <p> 
+Github  &#160;: github[dot]com[slash]yl17124 ⇨ [github[dot]com[slash]davidycliao](https://github.com/davidycliao)
 
