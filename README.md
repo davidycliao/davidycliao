@@ -4,9 +4,6 @@ I am a PhD student in the Department of Government, the University of Essex. My 
 
 Apart from my PhD project, I’m also interested in applying various natural language processing techniques to understand legislative speeches. Free free to check my [research profile](https://davidycliao.github.io/research/) :open_file_folder: and latest [curriculum vitae](https://raw.githack.com/davidycliao/CV/master/CV.pdf) :clipboard: out.
 
-
-
-
 ### Technologies and Tools 🔧 I Love 🤟 to Used:
 
 <p align="left"> 
@@ -22,8 +19,11 @@ Apart from my PhD project, I’m also interested in applying various natural lan
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> </a> 
 <a href="https://spacy.io" target="_blank"> <img src="https://raw.githack.com/explosion/spaCy/master/website/src/images/logo.svg" alt="git" width="54" height="44"/> </a>
 <a href="https://stanfordnlp.github.io" target="_blank"> <img src="https://raw.githack.com/stanfordnlp/stanza/dev/images/stanza-logo.png" alt="stanza" width="58" height="28"/> </a> 
-
-
 </p>
 
+
+
+### Update:
+Website: https://yl17124[dot]github[dot]io ⇨ https://davidycliao[dot]github[dot]io <p> 
+Github : https://github[dot]com[slash]yl17124  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;     ⇨  https://github[dot]com[slash]davidycliao
 
