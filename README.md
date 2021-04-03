@@ -22,7 +22,7 @@ Apart from my PhD project, I’m also interested in applying various natural lan
 </p>
 
 ### Sharing Thoughts:
-- [社會科學者做巨量資料的風險 The Risk and Challenges of Conducting Big Data Research Project for the Social Scientists](https://www.facebook.com/david.liao.7549/posts/10159702081716803?comment_id=10159702179491803&notif_id=1617231791576998&notif_t=feed_comment&ref=notif) ***English version coming soon***
+- [社會科學者做巨量資料的風險 The Risk of Conducting Big Data Research Using HPC for the Social Scientists](https://www.facebook.com/david.liao.7549/posts/10159702081716803?comment_id=10159702179491803&notif_id=1617231791576998&notif_t=feed_comment&ref=notif) ***English version coming soon***
 
 ### Website Update:
 - Website: yl17124[dot]github[dot]io  &#160; &#160;&#160;&#160;&#160; ⇨ [davidycliao[dot]github[dot]io](https://davidycliao.github.io) <p> 
