@@ -1,4 +1,6 @@
-## Hi, I am David 👋 <img src="https://raw.githack.com/davidycliao/figures/master/avataaars.png" width="200" height= "200" align="right" /> 
+### Hi, I am David 👋 <img src="https://raw.githack.com/davidycliao/figures/master/avataaars.png" width="210" height= "210" align="right" /> 
+
+----
 
 
 I am a PhD student in the Department of Government, the University of Essex. My research interests are mainly in __distributive politics__ and __roll call polarization__ within congress, and particularly in how electoral motives shape preference, representation and ideological positionings. 
