@@ -3,7 +3,9 @@
 
 I am a PhD student in the Department of Government, the University of Essex. My research interests are mainly in __distributive politics__ and __roll call polarization__ within congress, and particularly in how electoral motives shape preference, representation and ideological positionings. 
 
-Apart from my PhD project, I’m also interested in applying various natural language processing techniques to understand legislative speeches and debates. Free free to check my [research profile](https://davidycliao.github.io/research/) :open_file_folder: and latest [curriculum vitae](https://raw.githack.com/davidycliao/cv_show/main/CV.pdf) :clipboard: out.
+
+
+Apart from my dissertation project, I also apply various natural language processing techniques to understand political discourse as well as ues deep learning for speech processing in my new research project. Free free to check out my [research profile](https://davidycliao.github.io/research/) :open_file_folder: and latest [curriculum vitae](https://raw.githack.com/davidycliao/cv_show/main/CV.pdf) :clipboard:.
 
 
 
